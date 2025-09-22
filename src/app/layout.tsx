@@ -18,8 +18,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "MusicFlow - Music Distribution & Publishing Administration Platform",
+  description: "Professional music distribution and royalty tracking platform for independent musicians and labels",
 };
 
 export default function RootLayout({
